@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mohammed-Khalaf-9/mohammed-Khalaf-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm mohamed A second year student at science college ,IT department. 
+I am dedicated to build a strong foundation in computer science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+c , c++ , c# oop , data structures .
+
+
+## 🔗 Links
+### LinkedIn:
+https://www.linkedin.com/in/mohamed-khalafcs111/
+
+
