@@ -7,7 +7,7 @@ I am dedicated to build a strong foundation in computer science.
 
 
 ## 🛠 Skills
-c , c++ , c# oop , data structures .
+c , c++ , c# , oop , data structures .
 
 
 ## 🔗 Links
