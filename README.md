@@ -1,13 +1,20 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I'm mohamed A second year student at science college ,IT department. 
-I am dedicated to build a strong foundation in computer science.
+I'm mohamed A Third-year year student at science college ,IT department. 
+I am dedicated to build a strong foundation in computer science and Diving into Backend Development.
 
 
 
 ## 🛠 Skills
-c , c++ , c# , oop , data structures .
+ Programming Languages :
+ C++ , Java , C#
+ 
+ Concepts:
+ OOP , Solid Principles,  Data structures, Algorithms .
+
+Tools : 
+Git and Githup.
 
 
 ## 🔗 Links
